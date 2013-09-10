@@ -1,0 +1,13 @@
+{
+    "name": "grow-controller",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "node-schedule": "0.1.9",
+        "nstore": "0.5.2",
+        "secretary": "*"
+    }
+}
